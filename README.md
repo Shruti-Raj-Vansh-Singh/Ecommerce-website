@@ -1,5 +1,5 @@
 frontend - html, css, bootstrap
-backend - php, sql
+backend - Php, sql
 
 This repository includes-
 1.PHP files for the multipage e-commerce website.
